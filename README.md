@@ -7,7 +7,7 @@ Based on BennVenn's DIY [Gameboy printer emulator Kit](https://bennvenn.myshopif
  
  ![Back](Back.png)
  
- ![Board](image.jpg)
+ ![Board](photo.jpg)
  
 
 Boards are 1.6mm
