@@ -1,5 +1,7 @@
 # GBPrinter-Emulator-Kit-Minimal
 
+Can be purchased on [BennVenn's shop](https://bennvenn.myshopify.com/products/gameboy-printer-emulator-kit)
+
 Based on BennVenn's DIY [Gameboy printer emulator Kit](https://bennvenn.myshopify.com/products/gameboy-printer-emulator-kit) & [Palmr's gb-link-cable-breakout](https://github.com/Palmr/gb-link-cable)
  
  
