@@ -20,7 +20,7 @@ Gameboy link cable
 
 Modified STlink Dongle
 
-**Usage: **
+## Usage:
 
 Short pads marked "1" for normal operation
 
