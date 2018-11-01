@@ -16,7 +16,7 @@ Boards are 1.6mm
 
 Gameboy link cable
 
-2x5 female 2.54mm pitch dual row header
+2x5 female 2.54mm pitch dual row header / Or solder the stlink header to the board
 
 Modified STlink Dongle
 
