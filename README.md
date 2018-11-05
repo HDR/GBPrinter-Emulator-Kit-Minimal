@@ -24,7 +24,7 @@ Modified STlink Dongle
 
 ## Usage:
 
-NOTE: on V1.2 boards the indicator for cable direction is wrong, up on the board corresponds with up the cable.
+NOTE: on V1.2 boards the indicator for cable direction is wrong, up on the board corresponds with up on the cable.
 
 Short pads marked "1" for normal operation
 
